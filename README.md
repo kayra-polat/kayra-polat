@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✔ My fullname is Kayra POLAT®
-- 💻 I’m third year Computer Engineering student.
+- 💻 I’m fourth year Computer Engineering student.
 - 📖 I’m currently improving my programming skills.
 - 💬 Ask me about anything you want.
 - 📩 My personal gmail address: polat.kayra@gmail.com 
