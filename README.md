@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✔ My fullname is Kayra POLAT®
-- 💻 I graduated from Computer Engineering.
+- 💻 I am a Computer Engineer.
 - 📖 I’m currently improving my programming skills.
 - 💬 Ask me about anything you want.
 - 📩 My personal gmail address: polat.kayra@gmail.com 
